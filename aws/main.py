@@ -3,7 +3,7 @@ import time
 from arduino import read_from_arduino
 
 client=AWSIoTMQTTClient("new_Client")
-client.configureEndpoint('a36yvm2ysk9b4u-ats.iot.eu-west-1.amazonaws.com',8883)
+client.configureEndpoint('.iot.eu-west-1.amazonaws.com',8883)
 client.configureCredentials("root-CA.crt", "private.pem.key","certificate.pem.crt")
 
 client.configureOfflinePublishQueueing(-1) # Infinite Publish Queueing
