@@ -1,6 +1,6 @@
 #include "DHT.h"
 
-DHT dht(DHT11,2);
+DHT dht(2,DHT11);
 
 void setup() {
   dht.begin();
