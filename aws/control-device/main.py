@@ -24,3 +24,6 @@ print ("MQTT Client is connected to AWS IoT Core")
 time.sleep(2)
 client.subscribe("device/relay",1,notification)
 
+while True:
+	pass
+
