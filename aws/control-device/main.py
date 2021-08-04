@@ -13,8 +13,8 @@ client.configureMQTTOperationTimeout(5) # 5 Seconds
 
 def notification(client,userdata,message):
 	print ('Received a new message: ')
-  t=message.payload
-  send_to_arduino(t)
+  	t=message.payload
+  	send_to_arduino(t)
 	print (t)
 	print ("from topic: ")
 	print (message.topic)
