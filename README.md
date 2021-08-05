@@ -34,7 +34,7 @@ Official Repo of my session in a 1-week Faculty Development Programme organised 
 
 
 # For Support
-You can reach me on following places: <br/>
+You can reach me on following places: <br/> <br/>
 Madhu Parvathaneni <br/>
 1. <a href="https://linkedin.com/in/MadhuPIoT"> LinkedIn </a>
 2. <a href="mailto:mad@madblocks.tech">mad@madblocks.tech</a>
