@@ -31,6 +31,7 @@ Official Repo of my session in a 1-week Faculty Development Programme organised 
 2. Basics of python programming language
 3. Hardware Device like Arduino, Raspberry Pi etc...
 4. Sensory Devices like DHT11, DHT21, DHT22 etc...
+5. Fritzing for Schematic Design (<a href="https://onedrive.live.com/?authkey=%21AJ4yupk5PGV2vs0&cid=56559D033B70DDA3&id=56559D033B70DDA3%21929397&parId=56559D033B70DDA3%211006996&action=locate">Download Fritzing Here</a>)
 
 
 # For Support
