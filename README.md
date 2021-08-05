@@ -16,6 +16,16 @@ Official Repo of my session in a 1-week Faculty Development Programme organised 
 6. How to create a rule-set on AWS IoT Core?
 7. How to control a remote-device from AWS IoT Core?
 
+<b>5th August 2021</b>
+1. How to create a SQL Query for IoT Rule?
+2. How to assign IAM Role for IoT Core?
+3. How to create SNS Topic?
+4. How to create SNS Subscription?
+5. How to push notification to user?
+6. How to access Azure IoT Hub?
+7. How to create a device on IoT Hub?
+8. How to control a device from IoT Hub?
+
 # Pre-requisities
 1. You should have a valid AWS and Microsoft Azure Account
 2. Basics of python programming language
