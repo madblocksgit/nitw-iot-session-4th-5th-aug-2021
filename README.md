@@ -33,6 +33,11 @@ Official Repo of my session in a 1-week Faculty Development Programme organised 
 4. Sensory Devices like DHT11, DHT21, DHT22 etc...
 
 
-
+# For Support
+You can reach me on following places: <br/>
+Madhu Parvathaneni <br/>
+1. <a href="https://linkedin.com/in/MadhuPIoT"> LinkedIn </a>
+2. <a href="mailto:mad@madblocks.tech">mad@madblocks.tech</a>
+3. <a href="tel:+917893015625">0-7893015625</a>
 
 
